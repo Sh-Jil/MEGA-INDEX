@@ -7,7 +7,7 @@
 <h4><b>4.Most Simplified!😊</b></h4>
 <h2>⚙️How to use?</h2>
 <h3><b>Deploy on Heroku:</b></h3>
-<h4><b>1.First Open the App Deployment Page On Heroku: <a href="https://dashboard.heroku.com/new?template=https://github.com/TheCaduceus/MEGA-INDEX">Open it!</a></b></h4>
+<h4><b>1.First Open the App Deployment Page On Heroku: <a href="https://dashboard.heroku.com/new?template=https://github.com/Sh-Jil/MEGA-INDEX">Open it!</a></b></h4>
 <img src="Img/a.png" alt="Img/a.png">
 <h4><b>2.Now Enter a Unique App Name and Username/Email & Password of your Mega Account Carefully! and click Deploy Button</b></h4>
 <img src="Img/b.png" alt="Img/b.png">
@@ -37,7 +37,7 @@
 <h4><b>1.UserName: Enter your Registered Email ID in small.</b></h4>
 <h4><b>2.PassWord: Enter Password of your Registered Mega Account Carefully.</b></h4>
 <h2><b> 🔐 Safe or Not? ✅</b></h2>
-<h4><b> 1.Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/MEGA-INDEX">Original code</a>.🔒</b></h4>
+<h4><b> 1.Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/Sh-Jil/MEGA-INDEX">Original code</a>.🔒</b></h4>
 <h4><b> 2.This code do not share even a single piece of data to any third party source and not create any log of that!🔑</b></h4>
 <h4><b> 3.Do not trust any other copy of this Code.📚</b></h4>
 <h2>🎯Points to be Remembered🎯</h2>
