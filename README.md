@@ -15,7 +15,7 @@
 <img src="Img/d.png" alt="Img/d.png">
 <p><b>❗The URL of your MEGA INDEX will be in this format: https://appname.herokuapp.com/❗</b></p>
 <h3><b>Deploy on Railway</b></h3>
-<h4><b>1.First Open the App Deployment Page On Railway: <a href="https://railway.app/new/template?template=https://github.com/TheCaduceus/Railway-Backed-Support-MIU">Open it!</a></b></h4>
+<h4><b>1.First Open the App Deployment Page On Railway: <a href="https://railway.app/new/template?template=https://github.com/Sh-Jil//Railway-Backed-Support-MIU">Open it!</a></b></h4>
 <h4><b>2.Now Click Login with GitHub if you are new one! And then give a best Name to the Repository as shown in the Image! But don't forget to check "Private Repository" option to prevent your Password from getting leaked.</b></h4>
 <img src="Img/4.png" alt="4">
 <p><b>❗Don't forget to check "Private Repository" option otherwise Railway will make a seperate Public Repository on GITHUB and anyone can view your MEGA Email ID and Password.❗</b></p>
